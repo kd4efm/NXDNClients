@@ -504,6 +504,9 @@
 # 28299 America-Ragchew
 28299	arcnxdn.duckdns.org	41400
 
+# 29000 Missouri Wide NXDN - hosted by NXCore.org kd4efm1@gmail.com
+
+
 # 29999 AllStarLink Bridge
 29999	64.154.38.103	41400
 
@@ -624,7 +627,7 @@
 # 37030 SKYNET
 37030	skynet.nxdn.es	41400
 
-# 37224 Haiti NXDN
+# 37224 Haiti NXDN hosted by NXCore.org kd4efm1@gmail.com
 37224	44.98.254.130	41400
 
 # 37500 Belarus Digital MultiMode Network
